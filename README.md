@@ -14,4 +14,4 @@
         return HttpResponse('Hello {}'.format(nome))
 
 
-<img scr="https://github.com/MazeDan/Teste_Django_2022/issues/1#issue-1377178483" >
+<img scr="https://user-images.githubusercontent.com/88732777/190928117-a0f98f5f-a066-49d6-9404-cc3e5dac9a47.PNG" >
