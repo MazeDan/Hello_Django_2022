@@ -7,6 +7,8 @@
 
         path('hello/', views.hello),
         path('ola/<nome>/', views.ola),
+        
+![gitphoto01](https://user-images.githubusercontent.com/88732777/190928727-6fa5a200-16f7-4155-b8e0-f3c5541ed83f.PNG)
 
 - `Requests`: Criação de uma request para a view
 
