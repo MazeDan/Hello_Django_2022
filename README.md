@@ -14,4 +14,4 @@
         return HttpResponse('Hello {}'.format(nome))
 
 
-<img scr="https://user-images.githubusercontent.com/88732777/190928117-a0f98f5f-a066-49d6-9404-cc3e5dac9a47.PNG" >
+![gitphoto](https://user-images.githubusercontent.com/88732777/190928533-f59cb04e-0970-48ee-b41a-3fe71bcf92b0.PNG)
