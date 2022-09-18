@@ -13,4 +13,5 @@
         def ola(request,nome):
         return HttpResponse('Hello {}'.format(nome))
 
-<img scr ="https://github.com/MazeDan/Teste_Django_2022/issues/1#issue-1377178483" >
+
+<img scr="https://github.com/MazeDan/Teste_Django_2022/issues/1#issue-1377178483" >
