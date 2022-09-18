@@ -12,3 +12,4 @@
 
         def ola(request,nome):
         return HttpResponse('Hello {}'.format(nome))
+    <img scr ="imagens/gitphoto.png">
